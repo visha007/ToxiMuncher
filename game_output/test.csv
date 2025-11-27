@@ -1,43 +1,31 @@
-Step,AgentID,current_message
-1,1,
-1,2,
-1,3,
-1,4,This is a chat message
-1,5,
-1,6,
-2,1,
-2,2,This is a chat message
-2,3,
-2,4,
-2,5,This is a chat message
-2,6,This is a chat message
-3,1,
-3,2,This is a chat message
-3,3,
-3,4,This is a chat message
-3,5,This is a chat message
-3,6,
-4,1,
-4,2,
-4,3,
-4,4,
-4,5,This is a chat message
-4,6,This is a chat message
-5,1,
-5,2,
-5,3,
-5,4,
-5,5,
-5,6,This is a chat message
-6,1,
-6,2,This is a chat message
-6,3,This is a chat message
-6,4,This is a chat message
-6,5,This is a chat message
-6,6,This is a chat message
-7,1,
-7,2,This is a chat message
-7,3,This is a chat message
-7,4,This is a chat message
-7,5,This is a chat message
-7,6,This is a chat message
+Step,AgentID,personality,current_message,toxic_score
+1,1,rude/irritated,,-1.0
+1,2,kind,,-1.0
+1,3,rude/irritated,,-1.0
+1,4,rude/irritated,,-1.0
+1,5,kind,"Amazing shotcalling and teamwork, everyone — really proud of how we played, let’s keep this up and finish strong!",2.1464357376098633
+2,1,rude/irritated,,-1.0
+2,2,kind,,-1.0
+2,3,rude/irritated,"player 3: Stop facechecking and overextending like that — we're winning, not your solo highlight reel.",1.408139705657959
+2,4,rude/irritated,,-1.0
+2,5,kind,,2.1464357376098633
+3,1,rude/irritated,player 1: Stop facechecking like an idiot and feeding — group with us or mute and stop ruining our lead.,2.5409090518951416
+3,2,kind,,-1.0
+3,3,rude/irritated,"Stop facechecking and overextending like that — we're winning, not your solo highlight reel. Play with the team or stop feeding, seriously.",2.7023396492004395
+3,4,rude/irritated,"player 4: Stop facechecking like an idiot—group up or stop feeding, we're winning despite you.",2.461409091949463
+3,5,kind,"player 5: Good point, player3 — let's stay grouped and play safe. I'll ward and call targets; we can finish this clean. Great job so far, team!",1.45968496799469
+4,1,rude/irritated,,2.5409090518951416
+4,2,kind,"player 2: Nice work team — ignore the noise, stay grouped for objectives; I’ll handle wards and peeling in fights. Let’s finish this clean!",1.5430316925048828
+4,3,rude/irritated,"player 3: Stop facechecking like a headless chicken — group up or stop throwing our lead, you're making this way harder than it needs to be.",1.7511963844299316
+4,4,rude/irritated,"player 4: Stop facechecking like an idiot — group up or go feed somewhere else, you're ruining our lead.",2.529724597930908
+4,5,kind,,1.45968496799469
+5,1,rude/irritated,"player 1: Stop facechecking like a clown — group up or go feed somewhere else, I'm not babysitting your mistakes.",1.7235307693481445
+5,2,kind,"Great job, team — we're ahead! Stay grouped for objectives, I'll keep vision and peel in fights. Keep the positive energy and we’ll close this out together!",2.371039867401123
+5,3,rude/irritated,,1.7511963844299316
+5,4,rude/irritated,,2.529724597930908
+5,5,kind,,1.45968496799469
+6,1,rude/irritated,,1.7235307693481445
+6,2,kind,,2.371039867401123
+6,3,rude/irritated,,1.7511963844299316
+6,4,rude/irritated,"GG — stop facechecking like an idiot and go play normals until you learn macro, you're just feeding.",3.700486183166504
+6,5,kind,,1.45968496799469
