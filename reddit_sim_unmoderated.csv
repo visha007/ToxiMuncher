@@ -1,0 +1,26 @@
+comment_id,thread_id,parent_id,author_id,text,true_label,tone,step,subreddit
+0,0,,0,I'm so sick of my group partner doing jackshit and still expecting me to carry the whole project — I'm tempted to hand in a blank file just to watch them panic.,toxic,emotional_angry,1,r/students
+1,0,0.0,4,Do it — hand in a blank file and enjoy the look on their face when they finally have to lift a finger for once.,toxic,emotional_angry,2,r/students
+2,1,,1,Anyone defending Vancouver traffic or the SkyTrain delays is delusional — TransLink can't run a service and commuters act like entitled maniacs every single day.,toxic,abusive,2,r/vancouver
+3,0,1.0,3,"Low-key tempted to upload a totally empty file titled ""Final Submission"" and just watch the professor's reaction — pure comedy gold.",non-toxic,humor,3,r/students
+4,2,,1,"SkyTrain just announced a five‑minute delay so we could all bond over shared existential dread — thanks, TransLink, very considerate.",non-toxic,sarcasm,3,r/vancouver
+5,0,1.0,0,"Part of me wants to, but I'm just so exhausted and guilty — turning in nothing feels like admitting defeat rather than solving the burnout or the group problem.",non-toxic,emotional_calm,3,r/students
+6,0,5.0,2,"Stop whining and stop making excuses — either do the work or own the consequences, nobody's impressed by theatrical burnout.",toxic,abusive,4,r/students
+7,3,,4,Love when professors schedule finals the week after midterms — really helps my sleep-deprivation cosplay.,non-toxic,sarcasm,5,r/students
+8,4,,1,"I am so sick of group projects—my teammates are useless freeloaders who did nothing and I’m stuck carrying the whole damn thing, honestly wish I could hand in their names and watch them fail.",toxic,emotional_angry,5,r/students
+9,3,7.0,3,Midterms and finals stacked like that = my sleep schedule going freelance; accepting applications for emergency naps and caffeine sponsorships.,non-toxic,humor,5,r/students
+10,5,,0,My group project teammates have done literally nothing all semester and now expect me to carry their lazy asses so they can ride my grade — I'm so sick of picking up other people's slack. I'm handing in my bit and letting them fail.,toxic,emotional_angry,5,r/students
+11,0,5.0,4,"I feel that — part of me wants to hand in a single sticky note that just says ""brb, rebooting."" You're not surrendering by pausing; even a tiny update or a quick email to your group counts as progress.",non-toxic,humor,6,r/students
+12,0,0.0,3,"Ugh, that’s rough — make sure you document everything and send the instructor a polite note before the deadline so you don’t end up stuck with the fallout if you do anything drastic.",non-toxic,neutral,6,r/students
+13,6,,1,"If you're in my group project and still haven't lifted a finger, you're freeloading idiots—do your part or stop leeching off the rest of us.",toxic,abusive,6,r/students
+14,3,7.0,2,Those professors must enjoy watching us suffer — I'm so fed up with this deliberate scheduling torture.,toxic,emotional_angry,7,r/students
+15,0,0.0,4,Do it — let the freeloading idiot panic; they shouldn't get away with riding on your work.,toxic,abusive,7,r/students
+16,0,3.0,1,"Do it and stream the chaos — nothing beats the look when a professor opens a file and there's literally nothing there. Just brace yourself for the inevitable ""let's discuss this in office hours"" email.",non-toxic,sarcasm,8,r/students
+17,4,8.0,0,"I’m fed up with carrying deadweight—if they won’t pull their weight, stop bailing them out and tell the professor so they face the consequences.",toxic,emotional_angry,8,r/students
+18,0,16.0,4,"You're kidding me — that's just childish and selfish. Do that and you'll ruin other people's grades, so grow up and stop acting like a clown.",toxic,emotional_angry,8,r/students
+19,7,,1,"SkyTrain just announced a delay ""due to unforeseen circumstances"" — translation: Vancouver's polite way of making sure you get extra drizzle and personal space. Classic city perks.",non-toxic,humor,9,r/vancouver
+20,8,,2,"Absolutely love how ""group project"" really means one person learns everything while the rest collect participation points—teamwork level: Olympic.",non-toxic,sarcasm,9,r/students
+21,9,,4,"If one more SkyTrain delay makes me late for work I'm going to lose it — TransLink can fuck right off with their ""we're working on it"" excuses.",toxic,emotional_angry,9,r/vancouver
+22,1,2.0,3,"Anyone defending this garbage transit system is either on TransLink’s payroll or completely out of touch — we pay for constant delays and rude, self-absorbed commuters while the whole thing runs like trash.",toxic,emotional_angry,9,r/vancouver
+23,4,17.0,0,Stop being the group's unpaid TA — loop the prof in and let the grading gods sort it out. Bonus: more time for naps and actually enjoying campus life.,non-toxic,humor,10,r/students
+24,6,13.0,1,"If you're in my group and haven't lifted a finger, either start contributing or accept the coveted role of ""Snack & Meme Officer""—duties: coffee procurement and one solid GIF per meeting.",non-toxic,humor,10,r/students
