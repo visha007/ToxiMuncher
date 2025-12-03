@@ -113,9 +113,9 @@ Follow official instructions:
 https://solara.dev/documentation/getting_started/installing
 
 Steps:
-`python -m venv solara-env`
-`source solara-env/bin/activate`
-`pip install solara`
+- `python -m venv solara-env`
+- `source solara-env/bin/activate`
+- `pip install solara`
 
 #### NetworkX
 `pip install networkx`
