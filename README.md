@@ -82,8 +82,8 @@ The Streamlit app displays:
 ### Python Environment Setup
 
 #### Recommended:
-`python -m venv toximuncher-env`
-`source toximuncher-env/bin/activate`         # Mac / Linux
+`python -m venv toximuncher-env`\
+`source toximuncher-env/bin/activate`         # Mac / Linux\
 `toximumcher-env\Scripts\activate`            # Windows
 
 ### Core Dependencies
