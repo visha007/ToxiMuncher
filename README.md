@@ -1,4 +1,4 @@
-# ToxiMuncher: A Context-Aware Toxicity Detection System
+# ToxiMuncher: A Context-Aware Toxicity Classification System
 A CMPT 419 Final Project by Miro, Aroofa, and Shatavisha (Visha!)
 
 ToxiMuncher is a two-part project combining contextual toxicity classification using transformer models with agent-based governance simulations.
@@ -81,7 +81,7 @@ The Streamlit app displays:
 
 ### Python Environment Setup
 
-Recommended:
+#### Recommended:
 `python -m venv toximuncher-env`
 `source toximuncher-env/bin/activate`         # Mac / Linux
 `toximumcher-env\Scripts\activate`            # Windows
