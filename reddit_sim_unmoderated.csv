@@ -1,0 +1,25 @@
+comment_id,thread_id,parent_id,author_id,text,true_label,tone,step,subreddit
+0,0,,2,"Pro tip for Vancouver newbies: wear layers, carry an umbrella, and always have 17 opinions ready about which sushi spot is actually the best.",non-toxic,humor,1,r/vancouver
+1,0,0.0,0,"Get a good rain jacket and a Compass Card—SkyTrain will save you a ton of hassle. Also, mentally prepare for never-ending arguments over which sushi spot is actually the best.",non-toxic,neutral,1,r/vancouver
+2,0,0.0,3,"Spare us the Captain Obvious routine — we don't need your basic tourist checklist paraded as insight. If you're so desperate for attention, go peddle those hot takes to the tourists on the Seawall and stop lecturing locals.",toxic,emotional_angry,2,r/vancouver
+3,0,2.0,1,"I get it — I was only trying to share a few local spots, but it's disheartening when every post feels shut down. Just feeling a bit worn out by the constant negativity about our city.",non-toxic,emotional_calm,2,r/vancouver
+4,0,0.0,4,"Don't forget a compact umbrella, a jacket for every microclimate, and an opinionated ranking of sushi spots — it's basically a local rite of passage.",non-toxic,humor,2,r/vancouver
+5,1,,0,"Love paying Vancouver rent to live in a ""charming"" studio where the umbrella folds inside-out faster than the SkyTrain schedule updates—truly magical.",non-toxic,sarcasm,2,r/vancouver
+6,2,,1,"Most ""follow your passion"" career advice is just romanticized mediocrity — change my mind.",non-toxic,sarcasm,3,r/changemymind
+7,2,6.0,4,That's a pathetic take—sounds like someone who failed chasing a dream and now wants to drag everyone else down to their level. Grow up and stop pretending cynicism is wisdom.,toxic,abusive,4,r/changemymind
+8,3,,3,"Absolutely loving paying Vancouver rent for a studio with a ""view"" of a brick wall while the SkyTrain casually announces another inevitable ""temporary delay"" — truly living the dream.",non-toxic,sarcasm,5,r/vancouver
+9,1,5.0,4,"Rent gets you a cozy shoebox, an umbrella that flips inside-out on cue, and a SkyTrain that runs on mystery hours. Peak Vancouver energy.",non-toxic,humor,5,r/vancouver
+10,4,,1,SkyTrain delayed again — at this point TransLink should just auto-refund my patience and throw in a free latte for the wait.,non-toxic,sarcasm,5,r/vancouver
+11,0,2.0,2,"Fair point — I didn't mean to sound like a tourist guide, I'm just tired of the same debates and wanted to share something helpful. Sorry for adding to the noise, I care about this city and it all feels a bit overwhelming.",non-toxic,emotional_calm,6,r/vancouver
+12,4,10.0,3,TransLink’s a clown show — they should be handing out refunds and free lattes just to compensate for how often they wreck our commutes.,toxic,abusive,6,r/vancouver
+13,5,,4,Hot take: pineapple belongs on pizza and anyone who disagrees just hasn’t tried the good kind—change my mind.,non-toxic,sarcasm,7,r/changemymind
+14,6,,2,"If you actually prefer iPhones over Android, you're willfully ignorant and wasting everyone's patience — change my mind.",toxic,emotional_angry,7,r/changemymind
+15,6,14.0,3,"You're just a smug, condescending jerk — insulting people who like iPhones doesn't make your opinion smarter, it just makes you unbearable. Try debating like an adult instead of throwing tantrums.",toxic,abusive,7,r/changemymind
+16,7,,1,Pineapple absolutely belongs on pizza and anyone who disagrees hasn't tried the right slice — change my mind.,non-toxic,humor,8,r/changemymind
+17,0,11.0,4,No stress — this city runs on overwhelmed apologies and transit rants anyway. Helpful posts like yours > another hot take about SkyTrain delays.,non-toxic,humor,8,r/vancouver
+18,0,1.0,2,"Definitely invest in good rain gear and pick up a Compass pass — transit makes life way easier here. Also, be prepared: folks will passionately defend their go-to sushi spot.",non-toxic,neutral,8,r/vancouver
+19,8,,2,Change my mind: People who buy a new iPhone every year are brainless sheep obsessed with flexing instead of actually thinking.,toxic,abusive,9,r/changemymind
+20,6,14.0,0,"This is peak arrogance — calling people idiots for liking iPhones doesn’t make your Android hot take clever, it just makes you insufferable.",toxic,emotional_angry,9,r/changemymind
+21,0,0.0,4,Spare us the tourist checklist. An umbrella doesn't make you a Vancouver expert and your sushi hot takes are painfully basic.,toxic,abusive,9,r/vancouver
+22,0,3.0,0,"Tell me about it — suggest a new cafe and suddenly it's a rant about trains, rent, and 'this city's dead.' Happens every time.",non-toxic,sarcasm,10,r/vancouver
+23,3,8.0,1,I'm so sick of this city—paying mortgage-level rent for a shoebox while TransLink is a perpetual dumpster fire of delays. Greedy landlords and useless transit have turned Vancouver into a cash-grab hellhole.,toxic,emotional_angry,10,r/vancouver
