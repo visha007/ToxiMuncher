@@ -22,7 +22,7 @@ Two model variants:
     - Trained on general-comment datasets
     - Captures toxicity commonly found on social media & forums
     - Datasets used:
-        - Jigsaw Toxic Comment Classification Challenge [https://www.kaggle.com/datasets/julian3833/]jigsaw-toxic-comment-classification-challenge
+        - Jigsaw Toxic Comment Classification Challenge [https://www.kaggle.com/datasets/julian3833/jigsaw-toxic-comment-classification-challenge]
         - Ruddit Dataset [https://github.com/hadarishav/Ruddit/tree/main/Dataset]
         - Real Toxicity Prompts (RTP) [https://huggingface.co/datasets/allenai/real-toxicity-prompts]
 
